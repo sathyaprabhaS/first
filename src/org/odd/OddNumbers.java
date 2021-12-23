@@ -2,6 +2,12 @@ package org.odd;
 
 public class OddNumbers {
 	
+	public void name() {
+
+		System.out.println("sathya");
+		
+	}
+	
 	public static void main(String[] args) {
 		 
 	    int sum = 0;
